@@ -1,0 +1,7 @@
+## Interface: 110105
+## Title: AutoLog
+## Notes: 自动开关记录大秘境战斗日志
+## Author: Aaron
+## Version: 1.0
+
+AutoLog.lua
